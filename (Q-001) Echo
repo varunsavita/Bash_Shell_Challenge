@@ -4,6 +4,7 @@
 #  Replace the -n with -e and run again
 #  What do they print? How does their output differ?
 
+#!/bin/bash
 echo "Hello, Varun\n\n"
 echo -n "Hello, Varun\n\n"
 echo -e "Hello, Varun\n\n"
