@@ -1,0 +1,10 @@
+#  (Q-001) Echo
+#  Write a script that echoes the line "Hello, Varun\n\n"
+#  Add the -n option to the echo and run again
+#  Replace the -n with -e and run again
+#  What do they print? How does their output differ?
+
+echo "Hello, Varun\n\n"
+echo -n "Hello, Varun\n\n"
+echo -e "Hello, Varun\n\n"
+echo -E "Thank You\n\n"
